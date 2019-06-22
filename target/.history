@@ -3,3 +3,7 @@ run
 exit
 run
 exit
+run
+runMain Distance
+runMain Factorial
+exit
