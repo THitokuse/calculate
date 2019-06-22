@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/hasegawataichiro/.sbt/boot/scala-2.12.7/lib/scala-library.jar -classpath /Users/hasegawataichiro/projectfile/scala-study/target/scala-2.12/classes /Users/hasegawataichiro/projectfile/scala-study/Main.scala
